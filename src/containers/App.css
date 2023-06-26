@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Bauer';
+    src: url('Bauer.woff') format('woff2'),
+        url('Bauer.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+    h1 {
+        font-family: 'Bauer';
+        font-weight: 300;
+        color: rgb(199, 199, 199);  
+    }

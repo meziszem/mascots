@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/mascots/static/css/main.e4764fc3.css",
+    "main.js": "/mascots/static/js/main.36eef25a.js",
+    "static/js/787.d84c2030.chunk.js": "/mascots/static/js/787.d84c2030.chunk.js",
+    "static/media/victor.jpg": "/mascots/static/media/victor.d595ac5caab3d5e328d2.jpg",
+    "static/media/gritty.jpg": "/mascots/static/media/gritty.dd7c4ec513ba7c5cfab9.jpg",
+    "static/media/hunter.jpg": "/mascots/static/media/hunter.92f0f4bdf744ed4011bd.jpg",
+    "static/media/bouy.jpg": "/mascots/static/media/bouy.6f9db4cdaead148ee092.jpg",
+    "static/media/spartacat.jpg": "/mascots/static/media/spartacat.c4c4d9188b16b96fcb87.jpg",
+    "static/media/nashville.jpg": "/mascots/static/media/nashville.ab6c82b40ce92a48484a.jpg",
+    "static/media/panther.jpg": "/mascots/static/media/panther.fefe6c40870831aa8988.jpg",
+    "static/media/kings.jpg": "/mascots/static/media/kings.bcb41be8abb0f0e47cb6.jpg",
+    "static/media/howler.jpg": "/mascots/static/media/howler.ee109d69899d47803413.jpg",
+    "static/media/penguins.jpg": "/mascots/static/media/penguins.3427984d19ddfc7c5f97.jpg",
+    "static/media/thunderbug.jpg": "/mascots/static/media/thunderbug.15186cf955df971981fa.jpg",
+    "static/media/youppi.jpg": "/mascots/static/media/youppi.e395ed30f0b940fcdad3.jpg",
+    "static/media/fin.jpg": "/mascots/static/media/fin.97764647c3a344b3faa1.jpg",
+    "static/media/sabres.jpg": "/mascots/static/media/sabres.468cbbdee53b797178c1.jpg",
+    "static/media/blackhawks.jpg": "/mascots/static/media/blackhawks.07cbfdfc879c489acb59.jpg",
+    "static/media/bluejackets.jpg": "/mascots/static/media/bluejackets.00561a56e7c91dafbaa2.jpg",
+    "static/media/jets.jpg": "/mascots/static/media/jets.fbef116c01b2e6ca3e32.jpg",
+    "static/media/hurricanes.jpg": "/mascots/static/media/hurricanes.fb7e2b4a93e0ed487db3.jpg",
+    "static/media/mapleleafs.jpg": "/mascots/static/media/mapleleafs.081a48e7cd45861e078a.jpg",
+    "static/media/Bauer.woff": "/mascots/static/media/Bauer.2a308705ec3f5bceed40.woff",
+    "index.html": "/mascots/index.html",
+    "main.e4764fc3.css.map": "/mascots/static/css/main.e4764fc3.css.map",
+    "main.36eef25a.js.map": "/mascots/static/js/main.36eef25a.js.map",
+    "787.d84c2030.chunk.js.map": "/mascots/static/js/787.d84c2030.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4764fc3.css",
+    "static/js/main.36eef25a.js"
+  ]
+}
