@@ -25,9 +25,9 @@ class App extends Component {
        }
 
     render() {
-        const { mascots, searchfield } = this.state;
-        const filteredMascots = mascots.filter(mascot => {
-            return mascot.name.toLowerCase().includes(searchfield.toLowerCase());
+        const { mascots } = this.state;
+        const filteredMascots = this.state.mascots.filter(mascots => {
+            return Object.values(mascots).join("").toLowerCase().includes(this.state.searchfield.toLowerCase());
         }) 
      return !mascots.length ?
          <h1>Loading</h1> :

@@ -24,3 +24,9 @@ h3 {
   color: rgb(187, 248, 255);
   font-weight: 400;
 }
+
+h4 {
+  text-align: center;
+  color: rgb(58, 58, 58);
+  font-weight: 1000;
+}

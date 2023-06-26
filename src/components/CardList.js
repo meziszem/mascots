@@ -13,6 +13,7 @@ const CardList = ({mascots}) => {
         name={mascots[i].name} 
         email={mascots[i].email} 
         headshot={mascots[i].headshot}
+        team={mascots[i].team}
         />
         );
         })
